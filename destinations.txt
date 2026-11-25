@@ -1,2 +1,22 @@
 Paris, France --> £100
-
+Madrid, Spain --> £90
+Rome, Italy --> £90
+Lisbon, Portugal --> £90 
+Amsterdam, Netherlands --> £100
+Berlin, Germany --> £100
+Prague, Czech Republic --> £75
+Vienna, Austria --> £90
+Athens, Greece --> £180
+Dubrovnik, Croatia --> £150
+Reykjavik, Iceland --> £120
+Copenhagen, Denmark --> £100
+Stockholm, Sweden --> £120
+Budapest, Hungary --> £80
+Krakow, Poland --> £70
+Barcelona, Spain --> £100
+Florence, Italy --> £175
+Tokyo, Japan --> £700
+Kyoto, Japan --> £900
+Seoul, South Korea --> £550
+Bangkok, Thailand --> £550
+Singapore, Singapore --> £600
