@@ -20,3 +20,4 @@ Kyoto, Japan --> £900
 Seoul, South Korea --> £550
 Bangkok, Thailand --> £550
 Singapore, Singapore --> £600
+// Add more destinations
